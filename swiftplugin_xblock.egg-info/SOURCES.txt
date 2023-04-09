@@ -1,0 +1,14 @@
+setup.py
+swiftplugin/__init__.py
+swiftplugin/swiftplugin.py
+swiftplugin/static/README.txt
+swiftplugin/static/css/bootstrap.min.css
+swiftplugin/static/css/swiftplugin.css
+swiftplugin/static/html/swiftplugin.html
+swiftplugin/static/js/src/swiftplugin.js
+swiftplugin_xblock.egg-info/PKG-INFO
+swiftplugin_xblock.egg-info/SOURCES.txt
+swiftplugin_xblock.egg-info/dependency_links.txt
+swiftplugin_xblock.egg-info/entry_points.txt
+swiftplugin_xblock.egg-info/requires.txt
+swiftplugin_xblock.egg-info/top_level.txt
